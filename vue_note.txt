@@ -60,9 +60,9 @@ new Vue({
 
 19: run the server:
 npm run serve #note: do not spell serve as server!
+run in the my-app folder
 
 some terms:
-
 Vuefire is a small and pragmatic solution to create realtime bindings between a Firebase RTDB or a Firebase Cloud Firestore and your Vue application. Making it straightforward to always keep your local data in sync with remotes databases.
 Bulma is a free, open source CSS framework based on Flexbox and used by more than 200,000 developers.
 Firebase is Google's mobile platform that helps you quickly develop high-quality apps and grow your business.
